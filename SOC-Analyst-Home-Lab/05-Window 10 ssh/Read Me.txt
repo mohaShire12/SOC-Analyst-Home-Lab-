@@ -1,0 +1,22 @@
+ Windows 10 SSH Brute Force Detection & Investigation Lab
+
+ Executive Summary
+This project demonstrates a practical, end-to-end simulation and detection engineering workflow for a brute-force attack targeting an OpenSSH server running on a Windows 10 endpoint. Using an attacking Kali Linux machine, a controlled authentication attack was executed against a target workstation (`The-Analyst`). The resulting telemetry was captured locally via Windows Security Event Logs and Sysmon, centralized into a Splunk SIEM instance, and analyzed using an optimized Search Processing Language (SPL) correlation query designed to detect threshold-based authentication anomalies while minimizing false positives.
+
+---
+
+Environment Architecture & Tooling
+Attacker Node:** Kali Linux (Attacking IP: `192.168.10.30` / VirtualBox Environment)
+Target Workstation:** Windows 10 Pro (`The-Analyst` / IP: `192.168.10.10`)
+Host-Based Security Telemetry:** Windows Security Log & System Monitor (Sysmon v15.x)
+SIEM Platform:** Splunk Enterprise (Log Ingestion and Analytics)
+Attack Vector:** Network-based SSH Authentication Brute Force
+
+---
+
+ Phase 1: Attack Simulation (Offensive Perspective)
+To generate realistic forensic artifacts, **THC-Hydra** was utilized to execute a high-velocity brute-force attack against the SSH service running on the Windows 10 target machine. The attack explicitly targeted a known local user asset (`The-Analyst`) using an aggressive multi-threaded runtime flag to induce a recognizable statistical spike.
+
+ Execution Command:
+```bash
+hydra -t 10 -V -f -l The-Analyst -P passwordlist.txt ssh://192.168.10.10
