@@ -24,7 +24,8 @@ To leverage my cybersecurity education, SOC laboratory experience, and hands-on 
 | ------------------------------------------ | ------------------------------ |
 |Firewall Validation                         | <a href="https://github.com/mohaShire12/Firewall-Validation">Firewall Validation</a>|
 | Malware Detection Pipeline Investigation   | <a href="https://github.com/mohaShire12/Malware-Detection-Pipeline-Investigation">Malware Detection-Pipeline Investigation</a>|
-| Security Automation & Workflow Development |<a href="https://github.com/mohaShire12/Automated-SOC-Analyst">Automated SOC Analyst</a></a>|         
+| Security Automation & Workflow Development |<a href="https://github.com/mohaShire12/Automated-SOC-Analyst">Automated SOC Analyst</a></a>| 
+| POWERSHELL ABUSE DETECTION & THREAT HUNTING |<a href="https://github.com/mohaShire12/PowerShell-Abuse-Detection-Threat-Hunting">PowerShell-Abuse-Detection-Threat-Hunting</a></a>| 
 |SIEM Deployment & Log Analysis             | SOC Home Lab                   |
 | Splunk Search Processing Language (SPL)    | Splunk Detection Lab           |
 | Wazuh SIEM Monitoring                      | Wazuh Security Monitoring Lab  |
@@ -114,6 +115,10 @@ To leverage my cybersecurity education, SOC laboratory experience, and hands-on 
 <a href="https://github.com/mohaShire12/Automated-SOC-Analyst">Automated SOC Analyst</a></a>        
 
 Automated security workflows and alert handling processes using n8n and security integrations.
+
+## POWERSHELL ABUSE DETECTION & THREAT HUNTING 
+
+<a href="https://github.com/mohaShire12/PowerShell-Abuse-Detection-Threat-Hunting">PowerShell-Abuse-Detection-Threat-Hunting</a></a> 
 
 ### SOC Analyst Home Lab
 
