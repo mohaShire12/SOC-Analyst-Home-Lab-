@@ -22,7 +22,7 @@ To leverage my cybersecurity education, SOC laboratory experience, and hands-on 
 
 | Skill                                      | Associated Project             |
 | ------------------------------------------ | ------------------------------ |
-| | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+|Firewall Validation                         | <a href="https://github.com/mohaShire12/Firewall-Validation">Firewall Validation</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 |SIEM Deployment & Log Analysis             | SOC Home Lab                   |
 | Splunk Search Processing Language (SPL)    | Splunk Detection Lab           |
