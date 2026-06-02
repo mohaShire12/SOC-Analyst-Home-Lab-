@@ -1,59 +1,125 @@
-# 🛡️ SOC Analyst Home Lab Portfolio
+# Hello, I'm Mohamed Shire
 
-Welcome to my comprehensive Security Operations Center (SOC) home lab environment. This repository documents an end-to-end engineering and threat analysis framework, demonstrating hands-on experience in network hardening, host telemetry logging, custom endpoint alerts, and SIEM dashboard engineering.
+<a href="www.linkedin.com/in/mohamed-ibrahim-shire-b64830234"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
----
+## About Me
 
-## 🏗️ Lab Environment & Topology
-* **SIEM / Analytics Engine:** Splunk Enterprise
-* **Firewall / Edge Gateway:** pfSense Firewall Appliance
-* **Endpoint Detection & Auditing:** Sysmon (System Monitor) + Windows Event Logs
-* **Endpoint Protection & Control:** ManageEngine Endpoint Central Agent
-* **Guest Operating Systems:** Kali Linux (Attacker Node), Windows 10 (Target/Victim Network), Windows Server 2019, Windows 10 (Analyst Station)
+I am an IT professional with a Bachelor's Degree in Information Technology and a Postgraduate Diploma in Cybersecurity. My passion for cybersecurity has driven me to build multiple Security Operations Center (SOC) labs and hands-on projects focused on threat detection, incident response, threat hunting, digital forensics, and security automation.
 
----
+Through practical experience with Splunk, Wazuh, SIEM technologies, and real-world attack simulations, I have developed the skills required to monitor, investigate, and respond to security incidents in enterprise environments.
 
-## 📁 Lab Projects Architecture
-
-### 🛑 1. Network Perimeter Scanning & Firewall Policy Validation
-* **Location:** `[./01-Firewall-Validation/]`
-* **Objective:** Architectural hardening of an internal network split. Simulated an external threat actor utilizing **Kali Linux (Nmap)** executing reconnaissance and vulnerability scans targeting a Windows 10 victim protected by a **pfSense gateway**.
-* **Key Achievements:**
-  * Successfully transitioned network state from permissive default routing to a heavily restricted, zero-trust profile.
-  * Validated policy efficacy by ensuring external port scanning yielded `filtered` or non-responsive behaviors.
-  * Audited firewall diagnostics via the **pfSense System Logs**, verifying that incoming malicious connection vectors were actively dropped by the edge `Default Deny` ruleset.
-* 📄 **[Read Full Firewall Validation Report](./01-Firewall-Validation/Final%20Firewall%20Lab%20Report.pdf)**
+I am actively pursuing opportunities as a SOC Analyst, Cybersecurity Analyst, or Blue Team Security Professional where I can contribute to strengthening organizational security while continuing to grow my technical expertise.
 
 ---
 
-### 🦠 2. Malware Delivery, Defense, & SIEM Alert Ingestion
-* **Location:** `[./02-Malware-Detection-Pipeline/]`
-* **Objective:** Simulating an end-to-end adversarial attack chain—tracking an atomic payload deployment from external infrastructure straight to internal execution and SIEM correlation.
-* **Key Achievements:**
-  * **Adversarial Setup:** Spun up an ad-hoc payload hosting server on Kali Linux (`192.168.10.40`) on port `8080` using Python's internal HTTP server logic (`python3 -m http.server 8080`).
-  * **Endpoint Security Integration:** Leveraged **ManageEngine Endpoint Central** to flag, capture, and track a compiled payload simulation (`shire.exe`) executed on a target Windows 10 asset (`192.168.10.10`).
-  * **SIEM Triage:** Built and parsed centralized search parameters inside **Splunk Enterprise** to ingest event streams, map localized execution strings, and successfully validate the status modification of the incident ticket to a confirmed **True Positive**.
-* 📄 **[Read Full Detection & Defense Report](./02-Malware-Detection-Pipeline/malwarereport%201.pdf)**
+## Objective
+
+To leverage my cybersecurity education, SOC laboratory experience, and hands-on security monitoring skills to support Security Operations Center (SOC) teams in detecting, analyzing, and responding to cyber threats while continuously improving security operations and incident response capabilities.
 
 ---
 
-### 🔍 3. Endpoint Telemetry Engineering & Advanced Sysmon Queries
-* **Location:** `[./03-Sysmon-Telemetry-Analysis/]`
-* **Objective:** Building telemetry dashboards inside Splunk to audit, capture, and expose suspicious administrative behaviors on Windows assets via high-fidelity **Sysmon Logs**.
-* **Key Achievements:**
-  * **Process Profiling:** Authored robust Splunk Search Processing Language (SPL) queries to profile system anomalies by isolating process execution volumes (`EventCode=1 | stats count by Image`).
-  * **Heuristic Threat Hunting:** Designed regex-matching SPL criteria to filter and pinpoint obfuscated, malicious, or hidden PowerShell execution methods designed to bypass local policy enforcement:
-    ```splunk
-    index=* EventCode=1 Image="*powershell.exe*" 
-    | eval suspicious=if(match(CommandLine,"-enc|-nop|-w hidden|-exec bypass"), "YES", "NO") 
-    | stats count by CommandLine | sort -count
-    ```
-  * **File Integrity Tracking:** Aggregated Event Code 11 streams to capture real-time execution directories, tracking binary file creations (`TargetFilename="*.exe"`) to surface anomalies immediately.
-* 📄 **[Read Full Sysmon Telemetry Report](./03-Sysmon-Telemetry-Analysis/sysmon%20assigment%201.pdf)**
+## Skills
+
+| Skill                                      | Associated Project             |
+| ------------------------------------------ | ------------------------------ |
+| SIEM Deployment & Log Analysis             | SOC Home Lab                   |
+| Splunk Search Processing Language (SPL)    | Splunk Detection Lab           |
+| Wazuh SIEM Monitoring                      | Wazuh Security Monitoring Lab  |
+| Threat Hunting & IOC Analysis              | Threat Hunting Lab             |
+| Incident Response & Alert Triage           | SOC Incident Response Lab      |
+| Digital Forensics Investigation            | DFIR Investigation Lab         |
+| MITRE ATT&CK Mapping                       | Threat Detection Lab           |
+| Network Traffic Analysis                   | Wireshark Investigation Lab    |
+| Security Automation & Workflow Development | n8n SOC Automation Lab         |
+| Detection Engineering                      | Custom Detection Rules Project |
+| Malware Analysis Fundamentals              | Security Research Lab          |
+| Linux & Windows Administration             | SOC Home Lab                   |
 
 ---
 
-## ⚡ Technical Skills Demonstrated
-* **Threat Hunting & SIEM:** Advanced SPL Querying, Log Aggregation, Event Correlation (Sysmon Event ID 1 & 11)
-* **Network Infrastructure Security:** State-based Packet Filtering, Log Triage, Perimeter Hardening
-* **Incident Response Workflows:** Attack Lifecycle Replication, EPP/EDR Alert Verification, True Positive Validation
+## Tools
+
+### SIEM & Log Management
+
+<div>
+<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### Network Security
+
+<div>
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+<img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logoColor=white" />
+</div>
+
+### Operating Systems
+
+<div>
+<img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+</div>
+
+### Security Operations
+
+<div>
+<img src="https://img.shields.io/badge/-MITRE_ATT%26CK-FF0000?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Threat_Hunting-006400?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Digital_Forensics-4B0082?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Incident_Response-000080?&style=for-the-badge" />
+</div>
+
+### Automation & Development
+
+<div>
+<img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Git-181717?&style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/-n8n-EA4B71?&style=for-the-badge" />
+</div>
+
+---
+
+## Education
+
+* Bachelor of Information Technology (BIT)
+* Postgraduate Diploma in Cybersecurity
+
+---
+
+## Certifications
+
+* Security Blue Team Level 1 (Planned/In Progress)
+* Blue Team Fundamentals
+* SOC Analyst Training Programs
+* Additional cybersecurity certifications and training completed through self-study and practical labs
+
+---
+
+## Featured Projects
+
+### SOC Analyst Home Lab
+
+Built a complete SOC environment for log collection, monitoring, threat detection, incident investigation, and security analysis.
+
+### Splunk Detection Engineering Lab
+
+Developed custom SPL queries and detection rules to identify suspicious activities and security events.
+
+### Wazuh Security Monitoring Lab
+
+Implemented centralized endpoint monitoring and alerting for Windows and Linux systems.
+
+### Threat Hunting Lab
+
+Performed proactive threat hunting using IOC analysis, MITRE ATT&CK mapping, and log correlation techniques.
+
+### DFIR Investigation Lab
+
+Conducted forensic investigations using collected artifacts, system logs, and incident timelines.
+
+### SOC Automation Lab
+
+Automated security workflows and alert handling processes using n8n and security integrations.
