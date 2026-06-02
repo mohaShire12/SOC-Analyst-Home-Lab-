@@ -23,7 +23,7 @@ To leverage my cybersecurity education, SOC laboratory experience, and hands-on 
 | Skill                                      | Associated Project             |
 | ------------------------------------------ | ------------------------------ |
 |Firewall Validation                         | <a href="https://github.com/mohaShire12/Firewall-Validation">Firewall Validation</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Malware Detection Pipeline Investigation | <a href="https://github.com/mohaShire12/Malware-Detection-Pipeline-Investigation">Detection Lab</a>|
 |SIEM Deployment & Log Analysis             | SOC Home Lab                   |
 | Splunk Search Processing Language (SPL)    | Splunk Detection Lab           |
 | Wazuh SIEM Monitoring                      | Wazuh Security Monitoring Lab  |
@@ -101,6 +101,11 @@ To leverage my cybersecurity education, SOC laboratory experience, and hands-on 
 ---
 
 ## Featured Projects
+## Firewall Validation                         
+<a href="https://github.com/mohaShire12/Firewall-Validation">Firewall Validation</a>
+
+## Malware Detection Pipeline Investigation 
+<a href="https://github.com/mohaShire12/Malware-Detection-Pipeline-Investigation">Detection Lab</a>
 
 ### SOC Analyst Home Lab
 
