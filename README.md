@@ -23,7 +23,8 @@ To leverage my cybersecurity education, SOC laboratory experience, and hands-on 
 | Skill                                      | Associated Project             |
 | ------------------------------------------ | ------------------------------ |
 |Firewall Validation                         | <a href="https://github.com/mohaShire12/Firewall-Validation">Firewall Validation</a>|
-| Malware Detection Pipeline Investigation   | <a href="https://github.com/mohaShire12/Malware-Detection-Pipeline-Investigation">Malware-Detection-Pipeline-Investigation</a>|
+| Malware Detection Pipeline Investigation   | <a href="https://github.com/mohaShire12/Malware-Detection-Pipeline-Investigation">Malware Detection-Pipeline Investigation</a>|
+| Security Automation & Workflow Development |<a href="https://github.com/mohaShire12/Automated-SOC-Analyst">Automated SOC Analyst</a></a>|         
 |SIEM Deployment & Log Analysis             | SOC Home Lab                   |
 | Splunk Search Processing Language (SPL)    | Splunk Detection Lab           |
 | Wazuh SIEM Monitoring                      | Wazuh Security Monitoring Lab  |
@@ -32,7 +33,7 @@ To leverage my cybersecurity education, SOC laboratory experience, and hands-on 
 | Digital Forensics Investigation            | DFIR Investigation Lab         |
 | MITRE ATT&CK Mapping                       | Threat Detection Lab           |
 | Network Traffic Analysis                   | Wireshark Investigation Lab    |
-| Security Automation & Workflow Development | n8n SOC Automation Lab         |
+
 | Detection Engineering                      | Custom Detection Rules Project |
 | Malware Analysis Fundamentals              | Security Research Lab          |
 | Linux & Windows Administration             | SOC Home Lab                   |
@@ -101,11 +102,18 @@ To leverage my cybersecurity education, SOC laboratory experience, and hands-on 
 ---
 
 ## Featured Projects
+
 ## Firewall Validation                         
 <a href="https://github.com/mohaShire12/Firewall-Validation">Firewall Validation</a>
 
 ## Malware Detection Pipeline Investigation 
-<a href="https://github.com/mohaShire12/Malware-Detection-Pipeline-Investigation">Malware-Detection-Pipeline-Investigation</a>
+<a href="https://github.com/mohaShire12/Malware-Detection-Pipeline-Investigation">Malware Detection Pipeline Investigation</a>
+
+### SOC Automation Lab
+
+<a href="https://github.com/mohaShire12/Automated-SOC-Analyst">Automated SOC Analyst</a></a>        
+
+Automated security workflows and alert handling processes using n8n and security integrations.
 
 ### SOC Analyst Home Lab
 
@@ -127,6 +135,4 @@ Performed proactive threat hunting using IOC analysis, MITRE ATT&CK mapping, and
 
 Conducted forensic investigations using collected artifacts, system logs, and incident timelines.
 
-### SOC Automation Lab
 
-Automated security workflows and alert handling processes using n8n and security integrations.
