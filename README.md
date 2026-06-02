@@ -22,7 +22,9 @@ To leverage my cybersecurity education, SOC laboratory experience, and hands-on 
 
 | Skill                                      | Associated Project             |
 | ------------------------------------------ | ------------------------------ |
-| SIEM Deployment & Log Analysis             | SOC Home Lab                   |
+| | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+|SIEM Deployment & Log Analysis             | SOC Home Lab                   |
 | Splunk Search Processing Language (SPL)    | Splunk Detection Lab           |
 | Wazuh SIEM Monitoring                      | Wazuh Security Monitoring Lab  |
 | Threat Hunting & IOC Analysis              | Threat Hunting Lab             |
