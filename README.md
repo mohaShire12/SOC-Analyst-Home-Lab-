@@ -37,15 +37,8 @@ To leverage my extensive technology background, cybersecurity education, SOC lab
 |SIEM Deployment & Log Analysis             | SOC Home Lab                   |
 | Splunk Search Processing Language (SPL)    | Splunk Detection Lab           |
 | Wazuh SIEM Monitoring                      | Wazuh Security Monitoring Lab  |
-| Threat Hunting & IOC Analysis              | Threat Hunting Lab             |
-| Incident Response & Alert Triage           | SOC Incident Response Lab      |
-| Digital Forensics Investigation            | DFIR Investigation Lab         |
-| MITRE ATT&CK Mapping                       | Threat Detection Lab           |
 | Network Traffic Analysis                   | Wireshark Investigation Lab    |
 
-| Detection Engineering                      | Custom Detection Rules Project |
-| Malware Analysis Fundamentals              | Security Research Lab          |
-| Linux & Windows Administration             | SOC Home Lab                   |
 
 ---
 
@@ -155,9 +148,6 @@ Automated security workflows and alert handling processes using n8n and security
 ## Window 10 Attack                        
 <a href="https://github.com/mohaShire12/Window-10-Attack">Window 10 Attack </a>
 
-### SOC Analyst Home Lab
-
-Built a complete SOC environment for log collection, monitoring, threat detection, incident investigation, and security analysis.
 
 ### Splunk Detection Engineering Lab
 
@@ -167,12 +157,5 @@ Developed custom SPL queries and detection rules to identify suspicious activiti
 
 Implemented centralized endpoint monitoring and alerting for Windows and Linux systems.
 
-### Threat Hunting Lab
-
-Performed proactive threat hunting using IOC analysis, MITRE ATT&CK mapping, and log correlation techniques.
-
-### DFIR Investigation Lab
-
-Conducted forensic investigations using collected artifacts, system logs, and incident timelines.
 
 
