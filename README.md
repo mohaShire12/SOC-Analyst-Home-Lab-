@@ -2,19 +2,24 @@
 
 <a href="www.linkedin.com/in/mohamed-ibrahim-shire-b64830234"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+
 ## About Me
 
-I am an IT professional with a Bachelor's Degree in Information Technology and a Postgraduate Diploma in Cybersecurity. My passion for cybersecurity has driven me to build multiple Security Operations Center (SOC) labs and hands-on projects focused on threat detection, incident response, threat hunting, digital forensics, and security automation.
+I am a technology professional with more than 10 years of experience spanning Technical Support, Computer Education, Data Analysis, and Cybersecurity. Throughout my career, I have helped organizations and students leverage technology to solve problems, improve operations, and make data-driven decisions.
 
-Through practical experience with Splunk, Wazuh, SIEM technologies, and real-world attack simulations, I have developed the skills required to monitor, investigate, and respond to security incidents in enterprise environments.
+My professional journey began in IT support and computer education, where I gained extensive experience troubleshooting systems, managing computer laboratories, supporting users, and teaching technology-related subjects. I later transitioned into data analytics, developing expertise in data collection, analysis, visualization, business intelligence, and reporting using tools such as SQL, Python, Excel, Tableau, and Power BI.
 
-I am actively pursuing opportunities as a SOC Analyst, Cybersecurity Analyst, or Blue Team Security Professional where I can contribute to strengthening organizational security while continuing to grow my technical expertise.
+Today, I specialize in cybersecurity with a strong focus on Security Operations Center (SOC) operations, threat detection, incident response, threat hunting, digital forensics, and security automation. I have built multiple enterprise-style SOC lab environments utilizing Active Directory, Splunk, Wazuh, Sysmon, pfSense, Security Onion, and various attack simulation platforms to gain practical experience in detecting and investigating cyber threats.
+
+My unique combination of experience in education, technical support, data analytics, and cybersecurity enables me to approach security challenges from both technical and analytical perspectives while maintaining strong communication and problem-solving skills.
+
+I am actively pursuing opportunities as a SOC Analyst, Cybersecurity Analyst, Threat Detection Analyst, or Blue Team Security Professional where I can contribute my diverse technology background and continue advancing my cybersecurity expertise.
 
 ---
 
 ## Objective
 
-To leverage my cybersecurity education, SOC laboratory experience, and hands-on security monitoring skills to support Security Operations Center (SOC) teams in detecting, analyzing, and responding to cyber threats while continuously improving security operations and incident response capabilities.
+To leverage my extensive technology background, cybersecurity education, SOC laboratory experience, and hands-on security monitoring skills to support Security Operations Center (SOC) teams in detecting, analyzing, and responding to cyber threats. My goal is to contribute to strengthening organizational security while continuously expanding my expertise in threat detection, incident response, digital forensics, and security operations.
 
 ---
 
@@ -26,6 +31,7 @@ To leverage my cybersecurity education, SOC laboratory experience, and hands-on 
 | Malware Detection Pipeline Investigation   | <a href="https://github.com/mohaShire12/Malware-Detection-Pipeline-Investigation">Malware Detection-Pipeline Investigation</a>|
 | Security Automation & Workflow Development |<a href="https://github.com/mohaShire12/Automated-SOC-Analyst">Automated SOC Analyst</a></a>| 
 | POWERSHELL ABUSE DETECTION & THREAT HUNTING |<a href="https://github.com/mohaShire12/PowerShell-Abuse-Detection-Threat-Hunting">PowerShell-Abuse-Detection-Threat-Hunting</a></a>| 
+| Transport-Level Security (TLS) Implementation & Handshake Analysis |<a href="https://github.com/mohaShire12/Transport-Level-Security-TLS-Implementation-Handshake-Analysis">Transport-Level Security (TLS) Implementation & Handshake Analysis </a></a>| 
 |SIEM Deployment & Log Analysis             | SOC Home Lab                   |
 | Splunk Search Processing Language (SPL)    | Splunk Detection Lab           |
 | Wazuh SIEM Monitoring                      | Wazuh Security Monitoring Lab  |
@@ -95,11 +101,29 @@ To leverage my cybersecurity education, SOC laboratory experience, and hands-on 
 
 ## Certifications
 
-* Security Blue Team Level 1 (Planned/In Progress)
-* Blue Team Fundamentals
-* SOC Analyst Training Programs
-* Additional cybersecurity certifications and training completed through self-study and practical labs
+### Cybersecurity
 
+- IBM Cybersecurity Fundamentals
+- IBM Incident Response & Digital Forensics
+- Computer Forensics Specialization (Infosec)
+- Cyber Forensics (Great Learning)
+
+### Cloud Security
+
+- AWS Academy Graduate – Cloud Foundations
+- Cloud Computing Security (Bedaat IT Training)
+
+### Data Analytics
+
+- Google Data Analytics Professional Certificate
+- Data Analysis with Python (FreeCodeCamp)
+- Tableau for Data Visualization
+- Advanced Excel for Data Analytics
+
+### Monitoring & Evaluation
+
+- M&E Essentials (DisasterReady)
+- Project Management Essentials (DisasterReady)
 ---
 
 ## Featured Projects
@@ -119,6 +143,9 @@ Automated security workflows and alert handling processes using n8n and security
 ## POWERSHELL ABUSE DETECTION & THREAT HUNTING 
 
 <a href="https://github.com/mohaShire12/PowerShell-Abuse-Detection-Threat-Hunting">PowerShell-Abuse-Detection-Threat-Hunting</a></a> 
+
+## Transport-Level Security (TLS) Implementation & Handshake Analysis 
+<a href="https://github.com/mohaShire12/Transport-Level-Security-TLS-Implementation-Handshake-Analysis">Transport-Level Security (TLS) Implementation & Handshake Analysis </a></a>
 
 ### SOC Analyst Home Lab
 
