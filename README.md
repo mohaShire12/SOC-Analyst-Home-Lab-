@@ -30,8 +30,10 @@ To leverage my extensive technology background, cybersecurity education, SOC lab
 |Firewall Validation                         | <a href="https://github.com/mohaShire12/Firewall-Validation">Firewall Validation</a>|
 | Malware Detection Pipeline Investigation   | <a href="https://github.com/mohaShire12/Malware-Detection-Pipeline-Investigation">Malware Detection-Pipeline Investigation</a>|
 | Security Automation & Workflow Development |<a href="https://github.com/mohaShire12/Automated-SOC-Analyst">Automated SOC Analyst</a></a>| 
-| POWERSHELL ABUSE DETECTION & THREAT HUNTING |<a href="https://github.com/mohaShire12/PowerShell-Abuse-Detection-Threat-Hunting">PowerShell-Abuse-Detection-Threat-Hunting</a></a>| 
+|Window 10 Attack                        | <a href="https://github.com/mohaShire12/Window-10-Attack">Window 10 Attack </a>|
+| PowerShell Abuse Detection Threat Hunting |<a href="https://github.com/mohaShire12/PowerShell-Abuse-Detection-Threat-Hunting">PowerShell-Abuse-Detection-Threat-Hunting</a> 
 | Transport-Level Security (TLS) Implementation & Handshake Analysis |<a href="https://github.com/mohaShire12/Transport-Level-Security-TLS-Implementation-Handshake-Analysis">Transport-Level Security (TLS) Implementation & Handshake Analysis </a></a>| 
+|Active Directory Attack                       | <a href="https://github.com/mohaShire12/Active-Directory-attack">Active Directory attack</a>|
 |SIEM Deployment & Log Analysis             | SOC Home Lab                   |
 | Splunk Search Processing Language (SPL)    | Splunk Detection Lab           |
 | Wazuh SIEM Monitoring                      | Wazuh Security Monitoring Lab  |
@@ -140,12 +142,18 @@ To leverage my extensive technology background, cybersecurity education, SOC lab
 
 Automated security workflows and alert handling processes using n8n and security integrations.
 
-## POWERSHELL ABUSE DETECTION & THREAT HUNTING 
+## Active Directory Attack                       
+<a href="https://github.com/mohaShire12/Active-Directory-attack">Active Directory attack</a>
+
+##  PowerShell Abuse Detection Threat Hunting 
 
 <a href="https://github.com/mohaShire12/PowerShell-Abuse-Detection-Threat-Hunting">PowerShell-Abuse-Detection-Threat-Hunting</a></a> 
 
 ## Transport-Level Security (TLS) Implementation & Handshake Analysis 
 <a href="https://github.com/mohaShire12/Transport-Level-Security-TLS-Implementation-Handshake-Analysis">Transport-Level Security (TLS) Implementation & Handshake Analysis </a></a>
+
+## Window 10 Attack                        
+<a href="https://github.com/mohaShire12/Window-10-Attack">Window 10 Attack </a>
 
 ### SOC Analyst Home Lab
 
