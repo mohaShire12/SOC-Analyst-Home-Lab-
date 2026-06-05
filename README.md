@@ -34,6 +34,7 @@ To leverage my extensive technology background, cybersecurity education, SOC lab
 | PowerShell Abuse Detection Threat Hunting |<a href="https://github.com/mohaShire12/PowerShell-Abuse-Detection-Threat-Hunting">PowerShell-Abuse-Detection-Threat-Hunting</a> 
 | Transport-Level Security (TLS) Implementation & Handshake Analysis |<a href="https://github.com/mohaShire12/Transport-Level-Security-TLS-Implementation-Handshake-Analysis">Transport-Level Security (TLS) Implementation & Handshake Analysis </a></a>| 
 |Active Directory Attack                       | <a href="https://github.com/mohaShire12/Active-Directory-attack">Active Directory attack</a>|
+|AWS Cloudtrail Incident Invevstigation        | <a href="https://github.com/mohaShire12/SOC-Invevstigation-Trail">AWS Cloudtrail Incident Invevstigation</a>|
 |SIEM Deployment & Log Analysis             | SOC Home Lab                   |
 | Splunk Search Processing Language (SPL)    | Splunk Detection Lab           |
 | Wazuh SIEM Monitoring                      | Wazuh Security Monitoring Lab  |
@@ -147,6 +148,10 @@ Automated security workflows and alert handling processes using n8n and security
 
 ## Window 10 Attack                        
 <a href="https://github.com/mohaShire12/Window-10-Attack">Window 10 Attack </a>
+
+## AWS Cloudtrail Incident Invevstigation        
+
+<a href="https://github.com/mohaShire12/SOC-Invevstigation-Trail">AWS Cloudtrail Incident Invevstigation</a>
 
 
 ### Splunk Detection Engineering Lab
