@@ -35,6 +35,7 @@ To leverage my extensive technology background, cybersecurity education, SOC lab
 | Transport-Level Security (TLS) Implementation & Handshake Analysis |<a href="https://github.com/mohaShire12/Transport-Level-Security-TLS-Implementation-Handshake-Analysis">Transport-Level Security (TLS) Implementation & Handshake Analysis </a></a>| 
 |Active Directory Attack                       | <a href="https://github.com/mohaShire12/Active-Directory-attack">Active Directory attack</a>|
 |AWS Cloudtrail Incident Invevstigation        | <a href="https://github.com/mohaShire12/SOC-Invevstigation-Trail">AWS Cloudtrail Incident Invevstigation</a>|
+|AWS Soar Automation                             | <a href="https://github.com/mohaShire12/AWS-Soar-Automation">AWS Soar Automation</a>|
 |SIEM Deployment & Log Analysis             | SOC Home Lab                   |
 | Splunk Search Processing Language (SPL)    | Splunk Detection Lab           |
 | Wazuh SIEM Monitoring                      | Wazuh Security Monitoring Lab  |
@@ -152,6 +153,9 @@ Automated security workflows and alert handling processes using n8n and security
 ## AWS Cloudtrail Incident Invevstigation        
 
 <a href="https://github.com/mohaShire12/SOC-Invevstigation-Trail">AWS Cloudtrail Incident Invevstigation</a>
+
+## AWS Soar Automation                             
+<a href="https://github.com/mohaShire12/AWS-Soar-Automation">AWS Soar Automation</a>
 
 
 ### Splunk Detection Engineering Lab
