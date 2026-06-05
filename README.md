@@ -5,21 +5,21 @@
 
 ## About Me
 
-I am a technology professional with more than 10 years of experience spanning Technical Support, Computer Education, Data Analysis, and Cybersecurity. Throughout my career, I have helped organizations and students leverage technology to solve problems, improve operations, and make data-driven decisions.
+I am an IT and cybersecurity professional with over 10 years of experience across technical support, computer education, data analytics, and cybersecurity. I have a strong track record of helping organizations and learners use technology to solve problems, improve operations, and make data-driven decisions.
 
-My professional journey began in IT support and computer education, where I gained extensive experience troubleshooting systems, managing computer laboratories, supporting users, and teaching technology-related subjects. I later transitioned into data analytics, developing expertise in data collection, analysis, visualization, business intelligence, and reporting using tools such as SQL, Python, Excel, Tableau, and Power BI.
+I started my career in IT support and computer education, where I developed hands-on experience in system troubleshooting, computer lab administration, and teaching ICT-related subjects. I later transitioned into data analytics, building expertise in SQL, Python, Excel, Tableau, and Power BI for data cleaning, visualization, and business intelligence reporting.
 
-Today, I specialize in cybersecurity with a strong focus on Security Operations Center (SOC) operations, threat detection, incident response, threat hunting, digital forensics, and security automation. I have built multiple enterprise-style SOC lab environments utilizing Active Directory, Splunk, Wazuh, Sysmon, pfSense, Security Onion, and various attack simulation platforms to gain practical experience in detecting and investigating cyber threats.
+Currently, I specialize in cybersecurity and Security Operations Center (SOC) operations, focusing on threat detection, incident response, threat hunting, and digital forensics. I have built and worked with SOC lab environments using tools such as Splunk, Wazuh, Sysmon, Active Directory, pfSense, and Security Onion to simulate and investigate real-world cyber threats.
 
-My unique combination of experience in education, technical support, data analytics, and cybersecurity enables me to approach security challenges from both technical and analytical perspectives while maintaining strong communication and problem-solving skills.
+In addition, I have foundational experience in AWS cloud security and cloud-based monitoring, including working with AWS services for logging, security monitoring, and incident detection. I continue to expand my cloud security skills alongside SOC engineering practices.
 
-I am actively pursuing opportunities as a SOC Analyst, Cybersecurity Analyst, Threat Detection Analyst, or Blue Team Security Professional where I can contribute my diverse technology background and continue advancing my cybersecurity expertise.
+My combined experience in IT, data analytics, cybersecurity, and cloud technologies allows me to approach security challenges from both analytical and technical perspectives.
 
 ---
 
 ## Objective
 
-To leverage my extensive technology background, cybersecurity education, SOC laboratory experience, and hands-on security monitoring skills to support Security Operations Center (SOC) teams in detecting, analyzing, and responding to cyber threats. My goal is to contribute to strengthening organizational security while continuously expanding my expertise in threat detection, incident response, digital forensics, and security operations.
+To leverage my experience in IT, data analytics, cybersecurity, and AWS cloud security to contribute effectively as a SOC Analyst or Cybersecurity Analyst. My goal is to strengthen security operations through threat detection, incident response, and log analysis while continuously growing my expertise in cloud security, digital forensics, and SOC engineering.
 
 ---
 
