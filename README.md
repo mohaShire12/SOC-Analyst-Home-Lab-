@@ -32,7 +32,6 @@ To apply my skills in security operations, threat detection, incident response, 
 |AWS Cloudtrail Incident Invevstigation        | <a href="https://github.com/mohaShire12/SOC-Invevstigation-Trail">AWS Cloudtrail Incident Invevstigation</a>|
 |AWS Soar Automation                             | <a href="https://github.com/mohaShire12/AWS-Soar-Automation">AWS Soar Automation</a>|
 |Soc Python Projects                             | <a href="https://github.com/mohaShire12/Soc-Python-Projects">Soc Python Projects</a>|
-
 |SIEM Deployment & Log Analysis             | SOC Home Lab                   |
 | Splunk Search Processing Language (SPL)    | Splunk Detection Lab           |
 | Wazuh SIEM Monitoring                      | Wazuh Security Monitoring Lab  |
